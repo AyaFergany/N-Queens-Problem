@@ -8,3 +8,5 @@ The N Queen is the problem of placing N non-attacking chess queens on an N×N ch
 ![image](https://github.com/AyaFergany/N-Queens-Problem/assets/91394241/207263e9-edcd-42de-93f3-fdcb84d8cbff)
 
 
+# Reference
+https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
